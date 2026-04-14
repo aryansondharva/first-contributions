@@ -1,5 +1,6 @@
 # Contributors-
 - [ Arya ](https://github.com/aryansondharva)
+ -[Vidhya Veera](https://github.com/vidhyaveeranellu)
 - [Deep Parashar](https://github.com/deepparashar)
 - [rayrishu19-wq](https://github.com/rayrishu19-wq)
 - [Leta Kasahun](https://github.com/Leta-Kasahun)
@@ -11,6 +12,7 @@
 - [Amulya Harish](...)
 - [Ramnagendra Sripada](https://github.com/Ramnagendra2005)
 -[Karthik_Reddy](https://github.com/Karthikreddy2411)
+-[Ayman Mansuri](gybhubuh)
 -[Ankit Vijay Shinde](https://github.com/ankitshinde30)
 -[AbdullahGp](https://github.com/MAbdullahGp)
 - [Ashish Kumar Sahoo](https://github.com/Ashish1896)
@@ -72,6 +74,7 @@
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
 - [klmpt](https://github.com/klmpt)
+- [zLeonelDev](https://github.com/zLeonelDev)
 [Gaurav goswami](https://github.com/ggoswami777)
 - [Ayushman Pathak](https://github.com/ayushmanpathak9034)
 - [MrAidxn](https://github.com/MrAidxn)
@@ -161,6 +164,7 @@
 - [Gregory Caravaca](https://github.com/greg7cm)
 - Jabir Ahmad🥇
 - [Abhinandan Joshi] (https://github.com/abhinandanjoshii/)
+- [K Reena](https://github.com/Reena1912)
 - [Kareem Mohamed](https://github.com/karem5k5k5)
 - [serkansvmz](https://github.com/serkansvmz) 🚀
 - [Muhammad Abrar](https://github.com/Abrar140)
@@ -175,7 +179,7 @@
 - roy
 - Baha [DouD☄](https://github.com/xDouDx)
 - Rancho
-- DevenSpatel
+- DevenSpatel 
 - [Lohit T] (https://github.com/itsLohit)
 - [DDuran2007] (https://github.com/DDuran2007)
 - [Edlyn Jessica Philip](https://github.com/edlynjessica)
@@ -1181,6 +1185,7 @@ Steve
 - [Gui Jingzhao](https://github.com/PersianCat-tech)
 - [Guilherme Gomes](https://github.com/guilhermeGH900)
 - [Guna ](https://github.com/gunavardhan11)
+- [Jose Antonio Olmos](https://github.com/Jaolmos)
 - [Siva IITM](https://github.com/siva-IITM)
 - [Gxelol](https://github.com/Gxelol)
 - [Gyan Prakash](https://github.com/Gyanprakash136)
@@ -2321,6 +2326,7 @@ ritu
 -[Vivek Raj](https://github.com/vivekraj3456)
 -[OneByTheSide](https://github.com/OneByTheSide)
 - [Facu B](https://github.com/berFacundo)
+- [Ahmad Alqaisi](https://github.com/Ahmadalqaisi-eng)
 - [Joe Shawky](https://github.com/joeshawky)
 -[zwj](https://github.com/zwj)
 - [Bruno Buss](https://github.com/bussbruno)
@@ -2991,3 +2997,6 @@ Oiloo
 - [Anshima Gupta] (https://github.com/Anshi-G)
 - [harsh gidwani](https://github.com/harsh-codess)
 - [sujal kurkute](https://github.com/sujalkurkute)
+- [Arpit Shirbhate](https://github.com/arpit2006)
+- [Ankit](https://github.com/Ankit-954)
+- [Valentin Rbt]
